@@ -32,7 +32,7 @@ Currently working at a company with 17 units, where I'm responsible for developi
 ## 🚀 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,java,js,angular,python,html,css" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ Currently working at a company with 17 units, where I'm responsible for developi
 ## 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,spring,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,spring,git,github,postman,docker,vscode" />
 </p>
 
 ---
